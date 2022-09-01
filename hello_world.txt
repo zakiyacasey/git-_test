@@ -1,2 +1,3 @@
-Finally able to do some git committ.
+Finally able to do some git commit.
 Gonna be a fullstack developer in no time.
+Need to learn the common commands.
